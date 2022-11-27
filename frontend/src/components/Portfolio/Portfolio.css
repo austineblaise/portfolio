@@ -1,0 +1,16 @@
+.portfolio__buttons{
+    display: flex;
+    justify-content: space-evenly;
+
+    
+}
+
+
+#portfolio__cards{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: monospace;
+    
+
+    
+}

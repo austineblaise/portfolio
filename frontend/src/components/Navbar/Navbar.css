@@ -1,0 +1,28 @@
+/* #mainNav{
+    background-color: #4b4d4e;
+} */
+
+#scroll__up{
+    cursor: hand;
+    
+}
+
+@media only screen and (max-width: 900px) {
+	#scroll__up{
+        color: white !important;
+        
+	}
+    
+    /* #scroll__up:hover{
+        color: rgb(3, 100, 92) !important;
+        
+	}
+    
+    #scroll__up:hover{
+        color: rgb(3, 100, 92) !important;
+        
+	}
+	 */
+
+   
+}

@@ -1,0 +1,60 @@
+/* .col-lg-3{
+    border-radius: 50%;
+}
+ */
+#about {
+	background-color: rgb(3, 100, 92) !important;
+	font-size: 1.1rem;
+    font-weight: 400;
+	line-height: 1.5;
+	font-family: monospace;
+}
+
+.about_p {
+	
+	/* font-family: monospace; */
+	font-family: monospace;
+	font-weight: bold;
+}
+
+.but {
+	display: flex;
+	justify-content: center;
+	width: 75%;
+	
+}
+
+#about__intro{
+	font-size: 2.5rem;
+}
+
+
+
+.about__shadow {
+    box-shadow: 10px 0px 0px 0px solid black;
+}
+/* #about__img {
+	width: 100%;
+	height: auto; 
+	
+} */
+
+
+#about_name{
+	font-size: 2rem;
+	font-family: monospace;
+}
+
+.about__cursor{
+	cursor: pointer;
+	text-decoration: none !important;
+}
+
+@media only screen and (max-width: 900px) {
+	.but {
+		width: 100%;
+	}
+	
+
+   
+}

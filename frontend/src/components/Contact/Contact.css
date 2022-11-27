@@ -1,0 +1,17 @@
+.sendMail__error{
+    background-color: white;
+    color: red;
+    text-align: left;
+    padding: 2px;
+
+}
+
+
+@media only screen and (min-width: 1000px) {
+	#contact{
+		padding: 4rem 0 !important;
+	}
+	
+
+   
+}
